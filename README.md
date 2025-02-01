@@ -1,6 +1,5 @@
 # Airplane-Price-Prediction
 Prediction using Xgboost Model and Random Forest
-# Airplane Price Prediction
 
 This project involves predicting the prices of airplanes based on various features such as model, production year, engine type, capacity, range, fuel consumption, maintenance cost, and region of sale. The dataset used for this analysis is `airplane_price_dataset.csv`.
 
